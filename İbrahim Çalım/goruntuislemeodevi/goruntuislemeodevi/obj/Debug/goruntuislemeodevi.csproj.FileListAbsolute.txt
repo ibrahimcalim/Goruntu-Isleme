@@ -1,0 +1,17 @@
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.csprojAssemblyReference.cache
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form1.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form2.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form3.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form4.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form5.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form6.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form7.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Form8.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.Properties.Resources.resources
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.csproj.GenerateResource.cache
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\bin\Debug\goruntuislemeodevi.exe.config
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\bin\Debug\goruntuislemeodevi.exe
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\bin\Debug\goruntuislemeodevi.pdb
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.exe
+C:\Users\ramaz\Desktop\İbrahim Çalım\goruntuislemeodevi\goruntuislemeodevi\obj\Debug\goruntuislemeodevi.pdb
